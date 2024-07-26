@@ -1,0 +1,55 @@
+  
+#TitleName{
+     font-size: 50px;
+    font-style: italic;
+    color: aqua;
+}
+
+#yourName{
+    font-size: 20px;
+    font-style: italic;
+    color: aqua;
+}
+#textBox{
+    background-color: aliceblue;
+}
+#textBox1{
+    background-color: aliceblue;
+    padding: 50px;
+    opacity: 30%;
+}
+#textBox2{
+    background-color: aliceblue;
+    padding: 50px;
+    opacity: 30%;
+}
+#feild1{
+    font-size: 12px;
+    font-style: italic;
+    color: aqua;
+}
+#yesMayBe{
+    font-size: 20px;
+    font-style: italic;
+    color: aqua;
+}
+#bestColour{
+    padding: 50%;
+}
+body{
+    background-image: url(https://tse3.mm.bing.net/th/id/OIP.KqhgPonJtuwXYKLHlXdC0wHaEK?pid=ImgDet&rs=1);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+
+}
+.i1{
+    position: absolute;
+    left: 30% ;
+    right: 30%;
+    top:10% ;
+    bottom:10% ;
+    opacity: 60%;
+    height: 21cm;
+    background-color:black;
+}
